@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApekshaK25
-- 👀 I’m interested in Computer Science 
+- 👀 I’m interested in Computer Science and Entrepreneurship 
 - 🌱 I’m currently learning Web Development and deep Learning 
--  I’m a Second Year Computer Science Student
+- 🤩 I’m a Second Year Computer Science Student
 - 📫 How to reach me ...
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I love Reading and playing Chess
